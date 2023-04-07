@@ -1,13 +1,8 @@
-Flash Games running off of ruffle, on their very own webpage. Making it easy to embed right onto your website! May take a smidge to load. 
+TON OF RANDOM GAMES I AM COLLECTING
 
-This is different than the ¨pack¨ as this version is just each game on its own page, which makes it better for embeds.  Also, yeah I know it looks straight out of the late 90's but whatever. If the link attached is down, then I'm most likely updating it. 
-
-Also, in case something happens, heres a backup:
-https://chili-bowl-flashv3.glitch.me/
-
-Note: I do not take credit for ANY of this website except for the code housing all of these things together. 
 
 Credit:
+CBgamesdev - chilibowl ruffle stash
 -
 DXinteractive - Creator of Bloxorz & Electricman 2  - Website: https://damienclarke.me/
 -
