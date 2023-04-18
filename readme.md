@@ -2,6 +2,8 @@ TON OF RANDOM GAMES I AM COLLECTING
 
 
 Credit:
+@TechyPig99 - smart man who makes nothing but is good at helping me be less stupid
+-
 CBgamesdev - chilibowl ruffle stash
 -
 DXinteractive - Creator of Bloxorz & Electricman 2  - Website: https://damienclarke.me/
