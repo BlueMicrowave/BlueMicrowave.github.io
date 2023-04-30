@@ -6,6 +6,10 @@ if anyone is wondering the constant name changes are cus of my school blocking t
 Credit:
 @TechyPig99 - smart man who makes nothing but is good at helping me be less stupid
 -
+@Talon125 https://oktalon-szoradi.github.io/ for tetra legends
+-
+@DriftBossUnblocked for driftboss
+-
 CBgamesdev - chilibowl ruffle stash
 -
 DXinteractive - Creator of Bloxorz & Electricman 2  - Website: https://damienclarke.me/
